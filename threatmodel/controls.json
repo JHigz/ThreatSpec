@@ -1,0 +1,18 @@
+{
+  "controls": {
+    "#idp": {
+      "id": "#idp",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "Intrusion Detection & Prevention",
+      "description": "",
+      "custom": {}
+    },
+    "#server": {
+      "id": "#server",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "",
+      "description": "",
+      "custom": {}
+    }
+  }
+}

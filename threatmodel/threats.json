@@ -1,0 +1,39 @@
+{
+  "threats": {
+    "#sqlinjection": {
+      "id": "#sqlinjection",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "SQL Injection",
+      "description": "",
+      "custom": {}
+    },
+    "#sql_injection": {
+      "id": "#sql_injection",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "SQL Injection",
+      "description": "",
+      "custom": {}
+    },
+    "#ddos": {
+      "id": "#ddos",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "DDOS",
+      "description": "",
+      "custom": {}
+    },
+    "#out_of_service": {
+      "id": "#out_of_service",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "Out of service",
+      "description": "",
+      "custom": {}
+    },
+    "#sqli": {
+      "id": "#sqli",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "",
+      "description": "",
+      "custom": {}
+    }
+  }
+}

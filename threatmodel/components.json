@@ -1,0 +1,55 @@
+{
+  "components": {
+    "#user": {
+      "id": "#user",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "External:User",
+      "description": "",
+      "paths": [
+        [
+          "External"
+        ],
+        []
+      ],
+      "custom": {}
+    },
+    "#server": {
+      "id": "#server",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "MyApp:Web:Server",
+      "description": "",
+      "paths": [
+        [
+          "MyApp",
+          "Web"
+        ],
+        []
+      ],
+      "custom": {}
+    },
+    "#database": {
+      "id": "#database",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "MyApp:Web:Database",
+      "description": "",
+      "paths": [
+        [
+          "MyApp",
+          "Web"
+        ],
+        []
+      ],
+      "custom": {}
+    },
+    "#xss": {
+      "id": "#xss",
+      "run_id": "aaadc56fc4ad418b8f56864413d02514",
+      "name": "XSS",
+      "description": "",
+      "paths": [
+        []
+      ],
+      "custom": {}
+    }
+  }
+}
